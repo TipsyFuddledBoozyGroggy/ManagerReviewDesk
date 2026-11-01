@@ -1,0 +1,8 @@
+# The desk's data describes open security and legal issues and the PO's answers. This repository is PUBLIC.
+# Never commit it. Only the code, the page and the agent definitions are meant to be committed.
+data/
+*.log
+node_modules/
+.claude/settings.local.json
+.env
+.env.*
